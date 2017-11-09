@@ -1,0 +1,31 @@
+{
+  "name": "vk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "e.prokhorenko",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^5.8.38",
+    "babel-loader": "^5.4.2",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "antd": "^2.13.9",
+    "css": "^2.2.1",
+    "css-loader": "^0.28.7",
+    "history": "^1.17.0",
+    "re-base": "^3.0.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^3.1.2",
+    "react-redux-router": "0.0.10",
+    "react-router": "^4.2.0",
+    "redux": "^3.7.2",
+    "style": "0.0.3",
+    "style-loader": "^0.19.0"
+  }
+}
